@@ -1,0 +1,8 @@
+unittest2
+coverage
+hypothesis
+coveralls
+pylint
+mock
+diff_cover<2.5.0
+pytest>=4.6.5
